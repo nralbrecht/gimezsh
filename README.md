@@ -1,4 +1,4 @@
-# GimeZsh Theme
+# GimmeZsh Theme
 
 ![Screenshot](screenshot.png?raw=true)
 
